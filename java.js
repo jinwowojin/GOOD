@@ -1,3 +1,1 @@
-RAHEEL = 27
-BALEEN = 29
-WAQAR = 23
+//  name fix
