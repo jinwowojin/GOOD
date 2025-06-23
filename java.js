@@ -1,3 +1,3 @@
-RAHEEL = 27
-NABEEL = 23
-WAQAR = 24
+RAHEEL = 27 = ice cream shop
+NABEEL = 23 = dream of coding
+WAQAR = 24 = sea shipping
