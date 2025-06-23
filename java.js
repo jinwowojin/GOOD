@@ -1,3 +1,4 @@
-RAHiL = 27
-NABiL = 23
-WAkAR = 24
+RAHEEL = 27
+ARSAL = 18
+WAQAR = 24
+
